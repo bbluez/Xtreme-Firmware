@@ -205,6 +205,8 @@ const struct {
     {0xD5AB33, "Xtreme"},
     {0x0C0B67, "Xtreme Cta"},
     {0x13B39D, "Talking Sasquach"},
+    {0xD3FAEA, "Orion_Labs"},
+    {0xA5C42D, "grusch"},
     {0xAA1FE1, "ClownMaster"},
     {0x7C6CDB, "Obama"},
     {0x005EF9, "Ryanair"},
